@@ -1,6 +1,6 @@
 <h1>Enuh Blaise Manga CV </h1>
- </p>Eskişehir, Turkey</p> 
- </p>linkedin.com/in/enuhblaisemanga</p>
+ <p>Eskişehir, Turkey</p> 
+ <p>linkedin.com/in/enuhblaisemanga</p>
 
 <h1>Summary 
 </h1>
@@ -9,6 +9,7 @@
  
 <h3>KEY COMPETENCES: 
 </h3>
+<ul>
      <li>Agile project management </li>
      <li>Experiment design and data collection</li>
      <li>Academic, business writing, and business analysis</li>
@@ -17,18 +18,20 @@
      <li> laboratory production of biomaterials</li>
      <li>Bioinformatics </li>
      <li>Data Analysis  </li>
-
+</ul>
  
 <h3>TECHNOLOGIES:
 </h3>
+<ul>
       <li>Microsoft office (Word, PowerPoint, Excel, Teams, Access)</li>
       <li>Python, R and SQL (some C and MATLAB)</li>
       <li>Next generation sequencing (NGS)</li>
       <li>MS Windows And Unix</li>
       <li>Inkscape (for vector graphics design)</li>
-
+</ul>
  
 <h3>KEY ACCOMPLISHMENTS:</h3>
+<ul>
       <li>Mentoring and training dozens of youths on leadership and research tools.</li>
       <li>Lead a team of 10 people for data collection</li>
       <li>Data analysis for over 10+ projects</li>
@@ -37,12 +40,12 @@
       <li>Completed scientific project one month earlier and 20% budget left over.</li>
       <li>ESOGU Scientific Research grant winner.</li>
       <li>Developed bioinformatics pipelines and genome scale metabolic network models</li>
- 
+ </ul>
 <h3>Others skills </h3>
 <p>Resource management, conflict resolution, problem solving, legal and regulatory awareness, laboratory operations management, procurement, client-facing skill, Molecular Biology, Biotechnology, Business development, Computational biology, Genomics Data Science, Science communication, Emotional Intelligence.
 </p>
  
-<h3>Online profiles</h3></li>
+<h3>Online profiles</h3>
 <li>Researchgate profile at https://www.researchgate.net/profile/Enuh-Manga-2</li>
 <li>Google scholar at https://scholar.google.com/citations?user=Ip7mrm0AAAAJ&hl=en</li>
 <li>LinkedIn at https://www.linkedin.com/in/enuhblaisemanga/</li>
@@ -51,7 +54,7 @@
 <h1>Experience</h1>
 <h2>Science communicator | genomic data scientist | Proofreader | computational biologist | blogger
 </h2>
-<h3>Research [Jan 2020 - Present (2 years +)]</h2>
+<h3>Research [Jan 2020 - Present (2 years +)]</h3>
 <li>Excellent communications skills with graphics and social media on complex scientific concepts to diverse audiences.</li>
  
 <li>Strong organizational skills, virtual teams, delivery conscious, and collaboration with people both on and off line.</li>
@@ -86,7 +89,7 @@
  
 <li>Strong leadership skills, relationship builder, and experience managing research professionals on collaborative projects resulting in 2 publications. Teamwork and collaboration skills also demonstrated by managing national and international collaborations and proposal development for $200,000 project</li>
 
-Freelance Copywriter</h2>
+
 <h2>Freelance copywriting | Content developer and content strategy | Research Statistician</h2>
 <h3>Research and Data Analysis Consultants [Apr 2016 - Dec 2021 (5 years 9 months)]</h3>
 <p>High-level strategic planner, versed with software such as SPSS, EPI Info, and R with experience in analyzing large scientific datasets as demonstrated in over 10+ major projects.<p>
