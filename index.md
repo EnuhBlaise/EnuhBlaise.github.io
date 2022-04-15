@@ -46,7 +46,7 @@
 <li>Researchgate profile at https://www.researchgate.net/profile/Enuh-Manga-2</li>
 <li>Google scholar at https://scholar.google.com/citations?user=Ip7mrm0AAAAJ&hl=en</li>
 <li>LinkedIn at https://www.linkedin.com/in/enuhblaisemanga/</li>
-<li>Website at enuhblaise.com</li>
+<li>Website at https://www.enuhblaise.com</li>
 
 <h1>Experience</h1>
 <h2>Science communicator | genomic data scientist | Proofreader | computational biologist | blogger
