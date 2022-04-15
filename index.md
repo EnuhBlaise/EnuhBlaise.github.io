@@ -1,6 +1,5 @@
 <h1>Enuh Blaise Manga CV </h1>
  <p>Eskişehir, Turkey</p> 
- <p>linkedin.com/in/enuhblaisemanga</p>
 
 <h1>Summary 
 </h1>
@@ -45,11 +44,13 @@
 <p>Resource management, conflict resolution, problem solving, legal and regulatory awareness, laboratory operations management, procurement, client-facing skill, Molecular Biology, Biotechnology, Business development, Computational biology, Genomics Data Science, Science communication, Emotional Intelligence.
 </p>
  
-<h3>Online profiles</h3>
-<li>Researchgate profile at https://www.researchgate.net/profile/Enuh-Manga-2</li>
-<li>Google scholar at https://scholar.google.com/citations?user=Ip7mrm0AAAAJ&hl=en</li>
-<li>LinkedIn at https://www.linkedin.com/in/enuhblaisemanga/</li>
-<li>Website at https://www.enuhblaise.com</li>
+<h3>My profiles</h3>
+
+ <li><a href="https://www.linkedin.com/in/enuhblaisemanga/">LinkedIn </a></li>
+  <li><a href="https://www.researchgate.net/profile/Enuh-Manga-2">Researchgate </a></li>
+  <li><a href="https://scholar.google.com/citations?user=Ip7mrm0AAAAJ&hl=en">Google Scholar</a></li>
+  <li><a href="https://www.enuhblaise.com">Website </a></li>
+  <li><a href="https://www.twitter.com/enuhblaise">Twitter </a></li>
 
 <h1>Experience</h1>
 <h2>Science communicator | genomic data scientist | Proofreader | computational biologist | blogger
